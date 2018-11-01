@@ -9,8 +9,8 @@ A small command line utility script that automates the process of refreshing you
 - aws-cli 
 - AWS Credentials Setup ( ~/.aws/credentials and  ~/.aws/config)
 
-####Example Setup
-#####~/.aws/credentials
+#### Example Setup
+##### ~/.aws/credentials
 ```$xslt
 [default]
 region = eu-west-1
@@ -25,7 +25,7 @@ region = eu-west-1
 
 
 
-#####~/.aws/config
+##### ~/.aws/config
 ```$xslt
 [default]
 aws_access_key_id = 123GENERATRED 
